@@ -1,0 +1,159 @@
+[Event "chessgames consultation"]
+[Site "chessgames.com"]
+[Date "2006.01.11"]
+[EventDate "2006.01.11"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Maarten Ronteltap / Allies"]
+[Black "Ron Barber / Allies"]
+[ECO "B50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+Connection: close
+
+1.e4 {Notes by "EmperorAtahualpa" *** January 11, 2006. It was
+a sunny day in the Kibitzer's Cafe when fellow kibitzer "me to
+play" announced he would be running a consultation game on his
+chessforum. He immediately found 10 enthusiastic participants,
+who would be divided in two teams of five. White: "The
+Knightmares" - AdrianP, Chopin, EmperorAtahualpa (captain),
+hitman84 and Saruman. Black: "The Dark Horses" -
+NakoSonorense, Robin01, RonB52734 (captain), sitzkrieg and
+WannaBe. The first chessgames.com consultation match was
+born!} c5 {The first few moves for White and Black were made
+in a matter of hours, but eventually both teams would agree
+that each team would have 24 hours per move. Also, both teams
+had their own discussion forum which members of the other team
+were not allowed to visit, so that both teams could analyze
+the position and vote for their next move at their
+discretion.} 2.Nf3 {We're playing a standard Sicilian defense
+game so far. Of course, in a correspondence game such as this,
+you cannot easily afford to play dubious openings that work
+better in Blitz or standard chess, such as the King's Gambit
+opening.} d6 3.d4 cxd4 4.c3 {!? The Smith-Morra Gambit. This
+was a suggestion from hitman84 that was widely welcomed by the
+rest of the team except the team captain EmperorAtahualpa, who
+preferred the normal move 4.Nxd4. As the viewer will notice,
+White will hereafter be playing to regain the pawn for a
+substantial part of the game, even though it is ahead in
+development. For an interesting article on the Smith-Morra
+gambit, go here:
+www.chessville.com/instruction/Openings/Smith-Morra} dxc3 {As
+expected, Black accepts the gambit.} 5.Nxc3 Nf6 6.Bc4 Nc6 7.e5
+{! A tricky move. If 7...dxe5?, then 8.Qxd8 Kxd8 and Black is
+still a pawn up but at least cannot castle anymore. (7...dxe5
+8.Qxd8 Nxd8? 9.Nb5! Rb8 10.Nxe5 e6 11.Nxa7 +/=) Also, if
+7...Nxe5??, then 8.Nxe5 dxe5 9.Bxf7+! Kxf7 10.Qxd8 +-.} Nd7
+{7...Ng4 was another option with many interesting possible
+variations that could have followed, such as 7...Ng4 8.exd6
+exd6 9.Ng5 Nge5 9.Qd5, or 7...Ng4 8.exd6 exd6 9.Qe2+ Be7
+10.O-O O-O} 8.Bxf7+ {!! Credits go to Saruman for finding this
+move.} Kxf7 9.e6+ {9...Kxe6 is impossible, because 10.Qd5+ Kf6
+11.Ne4+ Kg6 12.Nh4# mates!} Ke8 10.exd7+ {Gaining back the
+knight.} Bxd7 11.O-O {It has been a wild opening, but the dust
+has settled a bit now. White's early attack is over and even
+though Black is still a pawn up, it is compensated (at least
+partly) by the fact that Black cannot castle anymore.} e5
+{With 11...e5, Black is seeking control of the center, however
+in hindsight perhaps it would have been wiser to keep the
+pawns closer to the king for adequate protection.} 12.Qd5 Bg4
+13.h3 Bh5 {13...Bxf3 14.Qxf3 Qd7 15.Be3 Be7 16.Rad1 Rd8 would
+have been solid too.} 14.Ng5 Qd7 15.f4 {The idea here was to
+aim at the f7 square while simultaneously attacking Black's
+pawn center. If Black's pawn center could be removed, the king
+would have been extra vulnerable. However, as you will see,
+this plan doesn't work out.} h6 16.Nf3 {-/+ On top of the fact
+that Black is a pawn up, it also appears that Black's pieces
+are better placed than those of White. It is therefore time
+for White to reorganize! 16.Nf3 looked a bit clumsy at first
+sight, but probably it is just as good as 16.Ne4. After
+16.Ne4, play could have continued pretty spectacularly with
+16...Bf7 17.Qd1 d5 18.fxe5 Nxe5 19.Re1 dxe4 20.Rxe4 Qxd1+
+21.Nxd1 Bd6 22.Bf5 Bd5 23.Re1 Kd7 24.Bxe5 with material
+equality but a better position for Black.} Bf7 17.Qd3 {This is
+White's first move with newcomer brankat in the team. Chopin
+had to quit the game due to a busy schedule, and brankat will
+be replacing him for the rest of the game.} Be7 18.Be3 Qe6
+{Both sides are developing and it seems that inevitably
+another eruption of exchanges is to follow. Here, with
+18...Qe6, Black probably intends ...Qc4 seeking queen
+exchanges, which would be favorable for Black, given that
+Black is already a pawn ahead.} 19.b3 {19.b3 is the most
+direct prevention of ...Qc4, however there's more to this
+move. White here was in the process of finding a new long-term
+strategy and was thinking of bringing the bishop to a3 via
+c1.} a6 20.Rae1 {Other good options are 20.Rad1 (which we were
+considering) and 20.Rac1. There are an awful lot of variations
+to be taken into account here, and we spent a lot of time
+analyzing in this part of the game. If 20.Rad1, then possibly
+20...Rd8 21.Qd2 b5 22.Qf2 Rf8 =/+. If 20.Rac1, then possibly
+20...Rf8 21.g4 Nb4 22.Qd2 h5 =/+} Rf8 21.Bc1 {Another move
+White almost went for is 21.Bb6, which could have been
+followed by 21...Rc8 22.Nd4! Qg6 23.Qf5 Qxf5 24.Nxf5 =/+} b5
+22.fxe5 {Here, hitman84 started to work out his plan for
+White's beautiful and controversial 23rd and 24th moves, which
+you are about to witness.} dxe5 23.Nxe5 {! A nice knight
+sacrifice that in the long run gives White at least a pawn
+back. Credits go to hitman84 for finding this move. Computers
+suggest the following combination, which funnily the White
+team completely overlooked: 23.Nxe5 Nxe5 24.Qe4! Rd8 25.Qxe5
+Qxe5 26.Rxe5+/=. However, hitman84 had a deeper move in
+mind...} Nxe5 24.Qg3 {!! The point behind 23.Nxe5. For the
+next moves you are about to see, White had worked out long
+combinations already in the days before so now needed little
+time to think.} Qb6+ {Here, both teams overlooked a very
+interesting move Black could have made: 24...Bg6!?. This move
+was suggested by Robin01, but his suggestion got
+outvoted. However, computer analyses say that 24...Bg6 25.Rxe5
+Rxf1+ 26.Kxf1 Qf7+ 27.Bf4 equalizes} 25.Be3 Qb8 26.Bf4 {White
+has a couple of winning combination in mind no matter what
+Black's response is. For instance: 26.Bf4 Qa7+ 27.Kh1 Ng6
+(27...Nc6? 28.Qxg7!) 28.Bd6!! Rd8 29.Nd5!} Qb6+ 27.Be3 Qb8
+{Here, Black offered a draw, even though they are a piece
+ahead! This shows that Black realized that despite their
+material advantage they would not be able to convert it into a
+win. Or perhaps they were even afraid of losing!} 28.Bd4 {!
+White has rejected Black's draw offer and is changing plans!
+Bd4 avoids Qb6+, but this move also requires completely new
+lines to work out. For instance, one line that White
+calculated is this one: 28.Bd4 Nc6 29.Qxg7 Qd6 (29...Nxd4
+30.Nd5!) 30.Bf6!} Be6 {? Arguably Black's poorest move of the
+game. 30...Nc6 should have been moved here.} 29.Rxf8+ Bxf8
+30.Rxe5 Qd6 {?!} 31.Bc5 Qxc5+ {!? Black's most interesting and
+controversial strategic move of the game. It would appear
+suicidal to give up the queen via 30...Qd6 31.Bc5 Qxc5+, but
+Black comes up with a very original and effective defense
+later on in the game.} 32.Rxc5 Bxc5+ 33.Kf1 {White now has a
+material advantage in the game, but will not be able to
+checkmate Black's king before he queens a pawn. And that will
+be a tough job! Both teams still have 4 pawns and none of them
+are passed pawns. Also, Black appears to still have the proper
+resources to prevent White's pawns from reaching the back
+rank.} Bf8 34.Qe3 Kd7 {After this move, NakoSonorense (one of
+Black's players) would be replaced by Cogano for the rest of
+the game} 35.a4 {! A tricky move. Credits go to hitman84 for
+this one. If Black responds improperly, he can lose a pawn!}
+Bxb3 {? This is exactly the response White had been hoping
+for! Now follows a neat trick.} 36.Qd3+ {!} Bd6 37.Nxb5 {!}
+axb5 38.Qxb5+ Kc7 39.Qxb3 {Now White is also up a pawn, and
+White is counting on a definite win now.} Rf8+ 40.Ke2 Re8+
+41.Kd3 Re7 42.Qc3+ Kd8 {The sad reality is by now beginning to
+dawn upon White. White will not be able to queen his a-pawn!
+White's problem is that Black can defend the a7-square with
+both the bishop and the rook. Also the kingside pawns can
+easily be defended with the bishop and rook.} 43.a5 Bb8 44.Qc6
+Rd7+ 45.Ke4 Re7+ 46.Kf3 Rf7+ 47.Ke2 Re7+ 48.Kf1 Rf7+ 49.Kg1
+Ba7+ 50.Kh2 Rc7 51.Qa8+ Ke7 52.a6 Kd6 {And here Black offered
+a draw again.} 53.g4 {White seriously considered to accept the
+draw here, but in the end decided to keep on fighting for a
+win. White was thinking of a plan to sacrifice the queen in
+order to promote one of the kingside pawns.} Bd4 54.Qd8+ Rd7
+55.Qf8+ Kc6 {And here the arbiter of the game, "me to play",
+called the game a draw, much to the disappointment of
+White. White believed it was too early to stop the game
+because White believed there was a reasonable chance that
+either of the teams could make a mistake that significantly
+affects the outcome of the game. However, in the end everybody
+enjoyed taking part in it. In hindsight, a draw is perhaps the
+best result, since it recognizes the effort both teams put
